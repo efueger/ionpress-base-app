@@ -6,7 +6,7 @@ ratings:
   - www/js/**
 exclude_paths:
   - tests/*
-  - docs/*
+  - "docs/*"
   - hooks/*
   - gulpfile.js
 
